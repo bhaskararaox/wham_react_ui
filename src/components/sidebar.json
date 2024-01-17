@@ -1,0 +1,556 @@
+[
+  {
+    "title": "Geekbench",
+    "icon": "bi-gear-fill",
+    "childrens": [
+      
+      {
+        "title": "101-file-compression",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "102-navigation",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "103-html5-browser",
+        "icon": "bi-phone-fill",
+        "childrens": [
+         
+        ]
+      },
+      {
+        "title": "104-pdf-renderer",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "105-photo-library",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "201-clang",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "202-text-processing",
+        "icon": "bi-phone-fill",
+        "childrens": [
+         
+        ]
+      },
+      {
+        "title": "203-asset-compression",
+        "icon": "bi-phone-fill",
+        "childrens": [
+         
+        ]
+      },
+      {
+        "title": "301-object-detection",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          ]
+      },
+      {
+        "title": "302-background-blur",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "401-horizon-detection",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+       {
+        "title": "402-object-remover",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+       {
+        "title": "403-hdr",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "404-photo-filter",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "501-ray-tracer",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+        {
+        "title": "502-structure-from-motion",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      }
+
+      
+    ]
+  },
+  {
+    "title": "dcperf",
+    "icon": "bi-gear-fill",
+    "childrens": [
+      {
+        "title": "build-1014",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1027",
+       "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1052",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1054",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1059",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1062",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1063",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1064",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+       {
+        "title": "build-1072",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1073",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+       {
+        "title": "build-1089",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1016",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1017",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1028",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1053",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1055",
+       "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1060",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1061",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1078",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1079",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1018",
+       "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1044",
+       "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1075",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      }
+      
+      
+    ]
+  },
+  {
+    "title": "mediaxcode",
+    "icon": "bi-gear-fill",
+    "childrens": [
+       {
+        "title": "build-960",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]     
+      },
+        {
+        "title": "build-982",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]      
+      },
+        {
+        "title": "build-949",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]       
+      }      
+    ]
+  },
+  {
+    "title": "webserver",
+    "icon": "bi-gear-fill",
+    "childrens": [
+      {
+        "title": "build-973",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-974",
+       "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "pbt-output",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-983",
+       "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-984",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-985",
+       "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-986",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-987",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+       {
+        "title": "build-995",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-996",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+       {
+        "title": "build-1001",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1004",
+       "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1005",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1006",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1025",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1029",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-975",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-978",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "pbt-output",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-991",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1002",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1007",
+       "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1008",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1009",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1026",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1030",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1040",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1042",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1043",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-976",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "pbt-output",
+       "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1003",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      },
+      {
+        "title": "build-1010",
+        "icon": "bi-phone-fill",
+        "childrens": [
+          
+        ]
+      }
+      
+    ]
+  }
+]
